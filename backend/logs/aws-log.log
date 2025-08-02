@@ -2406,3 +2406,68 @@ Exception: No se pudo enviar el mensaje por WhatsApp: HTTP 401 error: Unable to 
 2025-08-02 01:37:51,631 pid/7 [webhook.py:284] 🏁 FIN DE LA SOLICITUD
 2025-08-02 01:37:51,632 pid/7 [webhook.py:285] ==================================================
 
+2025-08-02 01:44:44,750 pid/7 [whatsapp.py:12] Cargando .env desde: /app/.env
+2025-08-02 01:44:44,751 pid/7 [whatsapp.py:17] Archivo .env cargado exitosamente
+2025-08-02 01:44:44,751 pid/7 [whatsapp.py:32] TWILIO_ACCOUNT_SID: ***
+2025-08-02 01:44:44,751 pid/7 [whatsapp.py:32] TWILIO_AUTH_TOKEN: ***
+2025-08-02 01:44:44,751 pid/7 [whatsapp.py:32] TWILIO_WHATSAPP_NUMBER: ***
+2025-08-02 01:45:17,857 pid/7 [webhook.py:163] ==================================================
+2025-08-02 01:45:17,858 pid/7 [webhook.py:164] 🔔 NUEVA SOLICITUD RECIBIDA
+2025-08-02 01:45:17,858 pid/7 [webhook.py:165] URL: http://d5ac92b76462.ngrok-free.app/api/v1/whatsapp-endpoint
+2025-08-02 01:45:17,858 pid/7 [webhook.py:166] Método: POST
+2025-08-02 01:45:17,859 pid/7 [webhook.py:167] Headers: {'host': 'd5ac92b76462.ngrok-free.app', 'user-agent': 'curl/8.7.1', 'content-length': '66', 'accept': '*/*', 'content-type': 'application/x-www-form-urlencoded', 'x-forwarded-for': '187.190.202.6', 'x-forwarded-host': 'd5ac92b76462.ngrok-free.app', 'x-forwarded-proto': 'https', 'accept-encoding': 'gzip'}
+2025-08-02 01:45:17,860 pid/7 [webhook.py:172] Datos del formulario: {'From': 'whatsapp: 5213411557781', 'Body': 'Hola, esto es una prueba directa'}
+2025-08-02 01:45:17,860 pid/7 [webhook.py:192] 📞 Número normalizado: 5213411557781
+2025-08-02 01:45:17,860 pid/7 [webhook.py:197] 💬 Mensaje recibido: Hola, esto es una prueba directa
+2025-08-02 01:45:18,517 pid/7 [webhook.py:202] 📚 Historial de conversación obtenido: 13 mensajes
+2025-08-02 01:45:18,630 pid/7 [webhook.py:61] 🔧 INICIANDO GUARDADO DE MENSAJES PARA 5213411557781
+2025-08-02 01:45:18,630 pid/7 [webhook.py:62] 📝 Cantidad de mensajes a guardar: 14
+2025-08-02 01:45:18,771 pid/7 [webhook.py:75] 🔄 Actualizando conversación existente para 5213411557781
+2025-08-02 01:45:18,862 pid/7 [webhook.py:95] ✅ Mensajes guardados exitosamente para 5213411557781
+2025-08-02 01:45:23,256 pid/7 [webhook.py:61] 🔧 INICIANDO GUARDADO DE MENSAJES PARA 5213411557781
+2025-08-02 01:45:23,257 pid/7 [webhook.py:62] 📝 Cantidad de mensajes a guardar: 15
+2025-08-02 01:45:23,370 pid/7 [webhook.py:75] 🔄 Actualizando conversación existente para 5213411557781
+2025-08-02 01:45:23,508 pid/7 [webhook.py:95] ✅ Mensajes guardados exitosamente para 5213411557781
+2025-08-02 01:45:23,509 pid/7 [whatsapp.py:49] Intentando enviar mensaje a (antes de limpieza): 5213411557781
+2025-08-02 01:45:23,509 pid/7 [whatsapp.py:69] Número destino formateado: whatsapp:+5213411557781
+2025-08-02 01:45:23,510 pid/7 [whatsapp.py:73] Usando número Twilio: whatsapp:+5219992641265
+2025-08-02 01:45:23,511 pid/7 [whatsapp.py:87] Datos del mensaje: {'from_': 'whatsapp:+5219992641265', 'to': 'whatsapp:+5213411557781', 'body': 'Lo siento, estoy teniendo problemas para procesar tu solicitud. Por favor, inténtalo de nuevo más tarde.'}
+2025-08-02 01:45:23,872 pid/7 [whatsapp.py:90] Mensaje enviado a whatsapp:+5213411557781
+2025-08-02 01:45:23,872 pid/7 [webhook.py:284] 🏁 FIN DE LA SOLICITUD
+2025-08-02 01:45:23,873 pid/7 [webhook.py:285] ==================================================
+
+2025-08-02 13:40:07,195 pid/7 [whatsapp.py:12] Cargando .env desde: /app/.env
+2025-08-02 13:40:07,196 pid/7 [whatsapp.py:17] Archivo .env cargado exitosamente
+2025-08-02 13:40:07,196 pid/7 [whatsapp.py:32] TWILIO_ACCOUNT_SID: ***
+2025-08-02 13:40:07,196 pid/7 [whatsapp.py:32] TWILIO_AUTH_TOKEN: ***
+2025-08-02 13:40:07,196 pid/7 [whatsapp.py:32] TWILIO_WHATSAPP_NUMBER: ***
+2025-08-02 13:40:58,908 pid/7 [whatsapp.py:12] Cargando .env desde: /app/.env
+2025-08-02 13:40:58,909 pid/7 [whatsapp.py:17] Archivo .env cargado exitosamente
+2025-08-02 13:40:58,909 pid/7 [whatsapp.py:32] TWILIO_ACCOUNT_SID: ***
+2025-08-02 13:40:58,909 pid/7 [whatsapp.py:32] TWILIO_AUTH_TOKEN: ***
+2025-08-02 13:40:58,909 pid/7 [whatsapp.py:32] TWILIO_WHATSAPP_NUMBER: ***
+2025-08-02 13:41:01,987 pid/7 [webhook.py:163] ==================================================
+2025-08-02 13:41:01,988 pid/7 [webhook.py:164] 🔔 NUEVA SOLICITUD RECIBIDA
+2025-08-02 13:41:01,988 pid/7 [webhook.py:165] URL: http://d5ac92b76462.ngrok-free.app/api/v1/whatsapp-endpoint
+2025-08-02 13:41:01,989 pid/7 [webhook.py:166] Método: POST
+2025-08-02 13:41:01,989 pid/7 [webhook.py:167] Headers: {'host': 'd5ac92b76462.ngrok-free.app', 'user-agent': 'curl/8.7.1', 'content-length': '66', 'accept': '*/*', 'content-type': 'application/x-www-form-urlencoded', 'x-forwarded-for': '187.190.202.6', 'x-forwarded-host': 'd5ac92b76462.ngrok-free.app', 'x-forwarded-proto': 'https', 'accept-encoding': 'gzip'}
+2025-08-02 13:41:01,990 pid/7 [webhook.py:172] Datos del formulario: {'From': 'whatsapp: 5213411557781', 'Body': 'Hola, esto es una prueba directa'}
+2025-08-02 13:41:01,990 pid/7 [webhook.py:192] 📞 Número normalizado: 5213411557781
+2025-08-02 13:41:01,991 pid/7 [webhook.py:197] 💬 Mensaje recibido: Hola, esto es una prueba directa
+2025-08-02 13:41:02,410 pid/7 [webhook.py:202] 📚 Historial de conversación obtenido: 15 mensajes
+2025-08-02 13:41:02,619 pid/7 [webhook.py:61] 🔧 INICIANDO GUARDADO DE MENSAJES PARA 5213411557781
+2025-08-02 13:41:02,620 pid/7 [webhook.py:62] 📝 Cantidad de mensajes a guardar: 16
+2025-08-02 13:41:02,708 pid/7 [webhook.py:75] 🔄 Actualizando conversación existente para 5213411557781
+2025-08-02 13:41:02,913 pid/7 [webhook.py:95] ✅ Mensajes guardados exitosamente para 5213411557781
+2025-08-02 13:41:11,009 pid/7 [webhook.py:61] 🔧 INICIANDO GUARDADO DE MENSAJES PARA 5213411557781
+2025-08-02 13:41:11,009 pid/7 [webhook.py:62] 📝 Cantidad de mensajes a guardar: 17
+2025-08-02 13:41:11,097 pid/7 [webhook.py:75] 🔄 Actualizando conversación existente para 5213411557781
+2025-08-02 13:41:11,199 pid/7 [webhook.py:95] ✅ Mensajes guardados exitosamente para 5213411557781
+2025-08-02 13:41:11,199 pid/7 [whatsapp.py:49] Intentando enviar mensaje a (antes de limpieza): 5213411557781
+2025-08-02 13:41:11,200 pid/7 [whatsapp.py:69] Número destino formateado: whatsapp:+5213411557781
+2025-08-02 13:41:11,200 pid/7 [whatsapp.py:73] Usando número Twilio: whatsapp:+5219992641265
+2025-08-02 13:41:11,201 pid/7 [whatsapp.py:87] Datos del mensaje: {'from_': 'whatsapp:+5219992641265', 'to': 'whatsapp:+5213411557781', 'body': '¡Hola! Soy Danil 🤖. ¿Te gustaría tener un asistente de WhatsApp que pueda tomar pedidos o programar citas para ti? 😊'}
+2025-08-02 13:41:11,633 pid/7 [whatsapp.py:90] Mensaje enviado a whatsapp:+5213411557781
+2025-08-02 13:41:11,634 pid/7 [webhook.py:284] 🏁 FIN DE LA SOLICITUD
+2025-08-02 13:41:11,634 pid/7 [webhook.py:285] ==================================================
+
