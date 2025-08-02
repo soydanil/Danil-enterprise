@@ -1,0 +1,224 @@
+2025-08-01 02:28:57 - danil-ai - INFO - loggers.py:79 - Logger configurado correctamente
+2025-08-01 02:28:57 - danil-ai - INFO - loggers.py:79 - Logger configurado correctamente
+2025-08-01 02:28:57 - danil-ai - DEBUG - loggers.py:80 - Nivel de depuración activado
+2025-08-01 02:28:57 - danil-ai - DEBUG - loggers.py:80 - Nivel de depuración activado
+2025-08-01 02:28:57 - danil-ai - DEBUG - loggers.py:90 - Logger configurado correctamente - Nivel DEBUG
+2025-08-01 02:28:57 - danil-ai - DEBUG - loggers.py:90 - Logger configurado correctamente - Nivel DEBUG
+2025-08-01 02:28:57 - danil-ai - INFO - loggers.py:91 - Logger configurado correctamente - Nivel INFO
+2025-08-01 02:28:57 - danil-ai - INFO - loggers.py:91 - Logger configurado correctamente - Nivel INFO
+2025-08-01 02:28:57 - danil-ai - WARNING - loggers.py:92 - Logger configurado correctamente - Nivel WARNING
+2025-08-01 02:28:57 - danil-ai - WARNING - loggers.py:92 - Logger configurado correctamente - Nivel WARNING
+2025-08-01 02:28:57 - danil-ai - INFO - loggers.py:79 - Logger configurado correctamente
+2025-08-01 02:28:57 - danil-ai - INFO - loggers.py:79 - Logger configurado correctamente
+2025-08-01 02:28:57 - danil-ai - DEBUG - loggers.py:80 - Nivel de depuración activado
+2025-08-01 02:28:57 - danil-ai - DEBUG - loggers.py:80 - Nivel de depuración activado
+2025-08-01 02:28:57 - danil-ai - DEBUG - loggers.py:90 - Logger configurado correctamente - Nivel DEBUG
+2025-08-01 02:28:57 - danil-ai - DEBUG - loggers.py:90 - Logger configurado correctamente - Nivel DEBUG
+2025-08-01 02:28:57 - danil-ai - INFO - loggers.py:91 - Logger configurado correctamente - Nivel INFO
+2025-08-01 02:28:57 - danil-ai - INFO - loggers.py:91 - Logger configurado correctamente - Nivel INFO
+2025-08-01 02:28:57 - danil-ai - WARNING - loggers.py:92 - Logger configurado correctamente - Nivel WARNING
+2025-08-01 02:28:57 - danil-ai - WARNING - loggers.py:92 - Logger configurado correctamente - Nivel WARNING
+2025-08-01 02:28:57 - danil-ai - INFO - loggers.py:79 - Logger configurado correctamente
+2025-08-01 02:28:57 - danil-ai - INFO - loggers.py:79 - Logger configurado correctamente
+2025-08-01 02:28:57 - danil-ai - DEBUG - loggers.py:80 - Nivel de depuración activado
+2025-08-01 02:28:57 - danil-ai - DEBUG - loggers.py:80 - Nivel de depuración activado
+2025-08-01 02:28:57 - danil-ai - DEBUG - loggers.py:90 - Logger configurado correctamente - Nivel DEBUG
+2025-08-01 02:28:57 - danil-ai - DEBUG - loggers.py:90 - Logger configurado correctamente - Nivel DEBUG
+2025-08-01 02:28:57 - danil-ai - INFO - loggers.py:91 - Logger configurado correctamente - Nivel INFO
+2025-08-01 02:28:57 - danil-ai - INFO - loggers.py:91 - Logger configurado correctamente - Nivel INFO
+2025-08-01 02:28:57 - danil-ai - WARNING - loggers.py:92 - Logger configurado correctamente - Nivel WARNING
+2025-08-01 02:28:57 - danil-ai - WARNING - loggers.py:92 - Logger configurado correctamente - Nivel WARNING
+2025-08-01 02:28:57 - danil-ai - INFO - loggers.py:79 - Logger configurado correctamente
+2025-08-01 02:28:57 - danil-ai - INFO - loggers.py:79 - Logger configurado correctamente
+2025-08-01 02:28:57 - danil-ai - DEBUG - loggers.py:80 - Nivel de depuración activado
+2025-08-01 02:28:57 - danil-ai - DEBUG - loggers.py:80 - Nivel de depuración activado
+2025-08-01 02:28:57 - danil-ai - DEBUG - loggers.py:90 - Logger configurado correctamente - Nivel DEBUG
+2025-08-01 02:28:57 - danil-ai - DEBUG - loggers.py:90 - Logger configurado correctamente - Nivel DEBUG
+2025-08-01 02:28:57 - danil-ai - INFO - loggers.py:91 - Logger configurado correctamente - Nivel INFO
+2025-08-01 02:28:57 - danil-ai - INFO - loggers.py:91 - Logger configurado correctamente - Nivel INFO
+2025-08-01 02:28:57 - danil-ai - WARNING - loggers.py:92 - Logger configurado correctamente - Nivel WARNING
+2025-08-01 02:28:57 - danil-ai - WARNING - loggers.py:92 - Logger configurado correctamente - Nivel WARNING
+2025-08-01 02:28:57 - danil-ai - INFO - whatsapp.py:12 - Cargando .env desde: /app/.env
+2025-08-01 02:28:57 - danil-ai - INFO - whatsapp.py:12 - Cargando .env desde: /app/.env
+2025-08-01 02:28:57 - danil-ai - INFO - whatsapp.py:17 - Archivo .env cargado exitosamente
+2025-08-01 02:28:57 - danil-ai - INFO - whatsapp.py:17 - Archivo .env cargado exitosamente
+2025-08-01 02:28:57 - danil-ai - INFO - whatsapp.py:12 - Cargando .env desde: /app/.env
+2025-08-01 02:28:57 - danil-ai - INFO - whatsapp.py:12 - Cargando .env desde: /app/.env
+2025-08-01 02:28:57 - danil-ai - INFO - whatsapp.py:17 - Archivo .env cargado exitosamente
+2025-08-01 02:28:57 - danil-ai - INFO - whatsapp.py:17 - Archivo .env cargado exitosamente
+2025-08-01 02:28:57 - danil-ai - INFO - whatsapp.py:12 - Cargando .env desde: /app/.env
+2025-08-01 02:28:57 - danil-ai - INFO - whatsapp.py:12 - Cargando .env desde: /app/.env
+2025-08-01 02:28:57 - danil-ai - INFO - whatsapp.py:17 - Archivo .env cargado exitosamente
+2025-08-01 02:28:57 - danil-ai - INFO - whatsapp.py:17 - Archivo .env cargado exitosamente
+2025-08-01 02:28:57 - danil-ai - INFO - whatsapp.py:12 - Cargando .env desde: /app/.env
+2025-08-01 02:28:57 - danil-ai - INFO - whatsapp.py:12 - Cargando .env desde: /app/.env
+2025-08-01 02:28:57 - danil-ai - INFO - whatsapp.py:17 - Archivo .env cargado exitosamente
+2025-08-01 02:28:57 - danil-ai - INFO - whatsapp.py:17 - Archivo .env cargado exitosamente
+2025-08-01 02:28:57 - langsmith.client - DEBUG - _background_thread.py:594 - Tracing control thread func compress parallel called
+2025-08-01 02:28:57 - langsmith.client - DEBUG - _background_thread.py:594 - Tracing control thread func compress parallel called
+2025-08-01 02:28:57 - langsmith.client - DEBUG - _background_thread.py:594 - Tracing control thread func compress parallel called
+2025-08-01 02:28:57 - langsmith.client - DEBUG - _background_thread.py:594 - Tracing control thread func compress parallel called
+2025-08-01 02:29:33 - langsmith.client - DEBUG - _background_thread.py:623 - Main thread is dead, stopping compression thread
+2025-08-01 02:29:33 - langsmith.client - DEBUG - _background_thread.py:726 - Compressed traces control thread is shutting down
+2025-08-01 02:29:33 - langsmith.client - DEBUG - _background_thread.py:512 - Main thread is dead, stopping tracing thread
+2025-08-01 02:29:33 - langsmith.client - DEBUG - _background_thread.py:585 - Tracing control thread is shutting down
+2025-08-01 02:29:33 - langsmith.client - DEBUG - client.py:250 - Closing Client.session
+2025-08-01 02:29:33 - langsmith.client - DEBUG - client.py:250 - Closing Client.session
+2025-08-01 02:29:33 - langsmith.client - DEBUG - _background_thread.py:623 - Main thread is dead, stopping compression thread
+2025-08-01 02:29:33 - langsmith.client - DEBUG - _background_thread.py:512 - Main thread is dead, stopping tracing thread
+2025-08-01 02:29:33 - langsmith.client - DEBUG - _background_thread.py:623 - Main thread is dead, stopping compression thread
+2025-08-01 02:29:33 - langsmith.client - DEBUG - _background_thread.py:726 - Compressed traces control thread is shutting down
+2025-08-01 02:29:33 - langsmith.client - DEBUG - _background_thread.py:726 - Compressed traces control thread is shutting down
+2025-08-01 02:29:33 - langsmith.client - DEBUG - _background_thread.py:623 - Main thread is dead, stopping compression thread
+2025-08-01 02:29:33 - langsmith.client - DEBUG - _background_thread.py:585 - Tracing control thread is shutting down
+2025-08-01 02:29:33 - langsmith.client - DEBUG - _background_thread.py:726 - Compressed traces control thread is shutting down
+2025-08-01 02:29:33 - langsmith.client - DEBUG - client.py:250 - Closing Client.session
+2025-08-01 02:29:33 - langsmith.client - DEBUG - client.py:250 - Closing Client.session
+2025-08-01 02:29:33 - langsmith.client - DEBUG - _background_thread.py:512 - Main thread is dead, stopping tracing thread
+2025-08-01 02:29:33 - langsmith.client - DEBUG - _background_thread.py:585 - Tracing control thread is shutting down
+2025-08-01 02:29:33 - langsmith.client - DEBUG - client.py:250 - Closing Client.session
+2025-08-01 02:29:33 - langsmith.client - DEBUG - client.py:250 - Closing Client.session
+2025-08-01 02:29:36 - danil-ai - INFO - loggers.py:85 - Logger configurado correctamente
+2025-08-01 02:29:36 - danil-ai - DEBUG - loggers.py:86 - Nivel de depuración activado
+2025-08-01 02:29:36 - danil-ai - DEBUG - loggers.py:96 - Logger configurado correctamente - Nivel DEBUG
+2025-08-01 02:29:36 - danil-ai - INFO - loggers.py:97 - Logger configurado correctamente - Nivel INFO
+2025-08-01 02:29:36 - danil-ai - WARNING - loggers.py:98 - Logger configurado correctamente - Nivel WARNING
+2025-08-01 02:29:36 - danil-ai - INFO - loggers.py:85 - Logger configurado correctamente
+2025-08-01 02:29:36 - danil-ai - DEBUG - loggers.py:86 - Nivel de depuración activado
+2025-08-01 02:29:36 - danil-ai - DEBUG - loggers.py:96 - Logger configurado correctamente - Nivel DEBUG
+2025-08-01 02:29:36 - danil-ai - INFO - loggers.py:97 - Logger configurado correctamente - Nivel INFO
+2025-08-01 02:29:36 - danil-ai - WARNING - loggers.py:98 - Logger configurado correctamente - Nivel WARNING
+2025-08-01 02:29:36 - danil-ai - INFO - loggers.py:85 - Logger configurado correctamente
+2025-08-01 02:29:36 - danil-ai - DEBUG - loggers.py:86 - Nivel de depuración activado
+2025-08-01 02:29:36 - danil-ai - DEBUG - loggers.py:96 - Logger configurado correctamente - Nivel DEBUG
+2025-08-01 02:29:36 - danil-ai - INFO - loggers.py:97 - Logger configurado correctamente - Nivel INFO
+2025-08-01 02:29:36 - danil-ai - WARNING - loggers.py:98 - Logger configurado correctamente - Nivel WARNING
+2025-08-01 02:29:36 - danil-ai - INFO - whatsapp.py:12 - Cargando .env desde: /app/.env
+2025-08-01 02:29:36 - danil-ai - INFO - whatsapp.py:17 - Archivo .env cargado exitosamente
+2025-08-01 02:29:36 - danil-ai - INFO - whatsapp.py:12 - Cargando .env desde: /app/.env
+2025-08-01 02:29:36 - danil-ai - INFO - whatsapp.py:17 - Archivo .env cargado exitosamente
+2025-08-01 02:29:36 - danil-ai - INFO - loggers.py:85 - Logger configurado correctamente
+2025-08-01 02:29:36 - danil-ai - DEBUG - loggers.py:86 - Nivel de depuración activado
+2025-08-01 02:29:36 - danil-ai - DEBUG - loggers.py:96 - Logger configurado correctamente - Nivel DEBUG
+2025-08-01 02:29:36 - danil-ai - INFO - loggers.py:97 - Logger configurado correctamente - Nivel INFO
+2025-08-01 02:29:36 - danil-ai - WARNING - loggers.py:98 - Logger configurado correctamente - Nivel WARNING
+2025-08-01 02:29:36 - danil-ai - INFO - whatsapp.py:12 - Cargando .env desde: /app/.env
+2025-08-01 02:29:36 - danil-ai - INFO - whatsapp.py:17 - Archivo .env cargado exitosamente
+2025-08-01 02:29:36 - danil-ai - INFO - whatsapp.py:12 - Cargando .env desde: /app/.env
+2025-08-01 02:29:36 - danil-ai - INFO - whatsapp.py:17 - Archivo .env cargado exitosamente
+2025-08-01 02:33:15 - INFO     - danil-ai:97 - Logger configurado correctamente
+2025-08-01 02:33:15 - DEBUG    - danil-ai:98 - Nivel de depuración activado
+2025-08-01 02:33:15 - INFO     - danil-ai:97 - Logger configurado correctamente
+2025-08-01 02:33:15 - DEBUG    - danil-ai:98 - Nivel de depuración activado
+2025-08-01 02:33:15 - INFO     - danil-ai:97 - Logger configurado correctamente
+2025-08-01 02:33:15 - DEBUG    - danil-ai:98 - Nivel de depuración activado
+2025-08-01 02:33:15 - INFO     - danil-ai:97 - Logger configurado correctamente
+2025-08-01 02:33:15 - DEBUG    - danil-ai:98 - Nivel de depuración activado
+2025-08-01 02:33:15 - INFO     - danil-ai:12 - Cargando .env desde: /app/.env
+2025-08-01 02:33:15 - INFO     - danil-ai:17 - Archivo .env cargado exitosamente
+2025-08-01 02:33:15 - INFO     - danil-ai:12 - Cargando .env desde: /app/.env
+2025-08-01 02:33:15 - INFO     - danil-ai:17 - Archivo .env cargado exitosamente
+2025-08-01 02:33:15 - INFO     - danil-ai:12 - Cargando .env desde: /app/.env
+2025-08-01 02:33:15 - INFO     - danil-ai:17 - Archivo .env cargado exitosamente
+2025-08-01 02:33:16 - INFO     - danil-ai:12 - Cargando .env desde: /app/.env
+2025-08-01 02:33:16 - INFO     - danil-ai:17 - Archivo .env cargado exitosamente
+2025-08-01 02:41:00 - INFO     - danil-ai:93 - Logger configurado correctamente
+2025-08-01 02:41:00 - DEBUG    - danil-ai:94 - Nivel de depuración activado
+2025-08-01 02:41:00 - INFO     - danil-ai:14 - 🔍 Loading .env from: /app/backend/.env
+2025-08-01 02:41:00 - INFO     - danil-ai:18 - ✅ Environment variables loaded successfully
+2025-08-01 02:41:00 - INFO     - danil-ai:93 - Logger configurado correctamente
+2025-08-01 02:41:00 - DEBUG    - danil-ai:94 - Nivel de depuración activado
+2025-08-01 02:41:00 - INFO     - danil-ai:14 - 🔍 Loading .env from: /app/backend/.env
+2025-08-01 02:41:00 - INFO     - danil-ai:18 - ✅ Environment variables loaded successfully
+2025-08-01 02:41:00 - INFO     - danil-ai:93 - Logger configurado correctamente
+2025-08-01 02:41:00 - DEBUG    - danil-ai:94 - Nivel de depuración activado
+2025-08-01 02:41:00 - INFO     - danil-ai:14 - 🔍 Loading .env from: /app/backend/.env
+2025-08-01 02:41:00 - INFO     - danil-ai:18 - ✅ Environment variables loaded successfully
+2025-08-01 02:41:00 - INFO     - danil-ai:93 - Logger configurado correctamente
+2025-08-01 02:41:00 - DEBUG    - danil-ai:94 - Nivel de depuración activado
+2025-08-01 02:41:00 - INFO     - danil-ai:14 - 🔍 Loading .env from: /app/backend/.env
+2025-08-01 02:41:00 - INFO     - danil-ai:18 - ✅ Environment variables loaded successfully
+2025-08-01 02:43:25 - INFO     - danil-ai:93 - Logger configurado correctamente
+2025-08-01 02:43:25 - DEBUG    - danil-ai:94 - Nivel de depuración activado
+2025-08-01 02:43:25 - INFO     - danil-ai:14 - 🔍 Loading .env from: /app/backend/.env
+2025-08-01 02:43:25 - INFO     - danil-ai:18 - ✅ Environment variables loaded successfully
+2025-08-01 02:43:25 - INFO     - danil-ai:93 - Logger configurado correctamente
+2025-08-01 02:43:25 - DEBUG    - danil-ai:94 - Nivel de depuración activado
+2025-08-01 02:43:25 - INFO     - danil-ai:14 - 🔍 Loading .env from: /app/backend/.env
+2025-08-01 02:43:25 - INFO     - danil-ai:18 - ✅ Environment variables loaded successfully
+2025-08-01 02:43:25 - INFO     - danil-ai:93 - Logger configurado correctamente
+2025-08-01 02:43:25 - DEBUG    - danil-ai:94 - Nivel de depuración activado
+2025-08-01 02:43:25 - INFO     - danil-ai:14 - 🔍 Loading .env from: /app/backend/.env
+2025-08-01 02:43:25 - INFO     - danil-ai:18 - ✅ Environment variables loaded successfully
+2025-08-01 02:43:25 - INFO     - danil-ai:93 - Logger configurado correctamente
+2025-08-01 02:43:25 - DEBUG    - danil-ai:94 - Nivel de depuración activado
+2025-08-01 02:43:25 - INFO     - danil-ai:14 - 🔍 Loading .env from: /app/backend/.env
+2025-08-01 02:43:25 - INFO     - danil-ai:18 - ✅ Environment variables loaded successfully
+2025-08-01 02:44:39 - INFO     - danil-ai:93 - Logger configurado correctamente
+2025-08-01 02:44:39 - DEBUG    - danil-ai:94 - Nivel de depuración activado
+2025-08-01 02:44:39 - INFO     - danil-ai:14 - 🔍 Loading .env from: /app/backend/.env
+2025-08-01 02:44:39 - INFO     - danil-ai:18 - ✅ Environment variables loaded successfully
+2025-08-01 02:44:39 - INFO     - danil-ai:93 - Logger configurado correctamente
+2025-08-01 02:44:39 - DEBUG    - danil-ai:94 - Nivel de depuración activado
+2025-08-01 02:44:39 - INFO     - danil-ai:14 - 🔍 Loading .env from: /app/backend/.env
+2025-08-01 02:44:39 - INFO     - danil-ai:18 - ✅ Environment variables loaded successfully
+2025-08-01 02:44:39 - INFO     - danil-ai:93 - Logger configurado correctamente
+2025-08-01 02:44:39 - DEBUG    - danil-ai:94 - Nivel de depuración activado
+2025-08-01 02:44:39 - INFO     - danil-ai:14 - 🔍 Loading .env from: /app/backend/.env
+2025-08-01 02:44:39 - INFO     - danil-ai:18 - ✅ Environment variables loaded successfully
+2025-08-01 02:44:39 - INFO     - danil-ai:93 - Logger configurado correctamente
+2025-08-01 02:44:39 - DEBUG    - danil-ai:94 - Nivel de depuración activado
+2025-08-01 02:44:39 - INFO     - danil-ai:14 - 🔍 Loading .env from: /app/backend/.env
+2025-08-01 02:44:39 - INFO     - danil-ai:18 - ✅ Environment variables loaded successfully
+2025-08-01 02:44:39 - INFO     - danil-ai:34 - ✅ Cliente de Twilio inicializado correctamente
+2025-08-01 02:44:39 - INFO     - danil-ai:34 - ✅ Cliente de Twilio inicializado correctamente
+2025-08-01 02:44:39 - INFO     - danil-ai:34 - ✅ Cliente de Twilio inicializado correctamente
+2025-08-01 02:44:39 - DEBUG    - langsmith.client:594 - Tracing control thread func compress parallel called
+2025-08-01 02:44:39 - DEBUG    - langsmith.client:594 - Tracing control thread func compress parallel called
+2025-08-01 02:44:39 - INFO     - danil-ai:34 - ✅ Cliente de Twilio inicializado correctamente
+2025-08-01 02:44:39 - DEBUG    - langsmith.client:594 - Tracing control thread func compress parallel called
+2025-08-01 02:44:39 - DEBUG    - langsmith.client:594 - Tracing control thread func compress parallel called
+2025-08-01 02:46:12 - DEBUG    - langsmith.client:623 - Main thread is dead, stopping compression thread
+2025-08-01 02:46:12 - DEBUG    - langsmith.client:726 - Compressed traces control thread is shutting down
+2025-08-01 02:46:12 - DEBUG    - langsmith.client:623 - Main thread is dead, stopping compression thread
+2025-08-01 02:46:12 - DEBUG    - langsmith.client:726 - Compressed traces control thread is shutting down
+2025-08-01 02:46:12 - DEBUG    - langsmith.client:512 - Main thread is dead, stopping tracing thread
+2025-08-01 02:46:12 - DEBUG    - langsmith.client:585 - Tracing control thread is shutting down
+2025-08-01 02:46:12 - DEBUG    - langsmith.client:623 - Main thread is dead, stopping compression thread
+2025-08-01 02:46:12 - DEBUG    - langsmith.client:623 - Main thread is dead, stopping compression thread
+2025-08-01 02:46:12 - DEBUG    - langsmith.client:726 - Compressed traces control thread is shutting down
+2025-08-01 02:46:12 - DEBUG    - langsmith.client:726 - Compressed traces control thread is shutting down
+2025-08-01 02:46:12 - DEBUG    - langsmith.client:250 - Closing Client.session
+2025-08-01 02:46:12 - DEBUG    - langsmith.client:250 - Closing Client.session
+2025-08-01 02:46:13 - DEBUG    - langsmith.client:512 - Main thread is dead, stopping tracing thread
+2025-08-01 02:46:13 - DEBUG    - langsmith.client:585 - Tracing control thread is shutting down
+2025-08-01 02:46:13 - DEBUG    - langsmith.client:250 - Closing Client.session
+2025-08-01 02:46:13 - DEBUG    - langsmith.client:250 - Closing Client.session
+2025-08-01 02:46:13 - DEBUG    - langsmith.client:512 - Main thread is dead, stopping tracing thread
+2025-08-01 02:46:13 - DEBUG    - langsmith.client:585 - Tracing control thread is shutting down
+2025-08-01 02:46:13 - DEBUG    - langsmith.client:250 - Closing Client.session
+2025-08-01 02:46:13 - DEBUG    - langsmith.client:250 - Closing Client.session
+2025-08-01 02:46:13 - DEBUG    - langsmith.client:512 - Main thread is dead, stopping tracing thread
+2025-08-01 02:46:13 - DEBUG    - langsmith.client:585 - Tracing control thread is shutting down
+2025-08-01 02:46:13 - DEBUG    - langsmith.client:250 - Closing Client.session
+2025-08-01 02:46:13 - DEBUG    - langsmith.client:250 - Closing Client.session
+2025-08-01 02:46:15 - INFO     - danil-ai:86 - Logger configurado correctamente
+2025-08-01 02:46:15 - DEBUG    - danil-ai:87 - Nivel de depuración activado
+2025-08-01 02:46:15 - INFO     - danil-ai:16 - 🔍 Loading .env from: /app/backend/.env
+2025-08-01 02:46:15 - INFO     - danil-ai:23 - ✅ Environment variables loaded successfully
+2025-08-01 02:46:15 - INFO     - danil-ai:86 - Logger configurado correctamente
+2025-08-01 02:46:15 - DEBUG    - danil-ai:87 - Nivel de depuración activado
+2025-08-01 02:46:15 - INFO     - danil-ai:16 - 🔍 Loading .env from: /app/backend/.env
+2025-08-01 02:46:15 - INFO     - danil-ai:23 - ✅ Environment variables loaded successfully
+2025-08-01 02:46:15 - INFO     - danil-ai:86 - Logger configurado correctamente
+2025-08-01 02:46:15 - DEBUG    - danil-ai:87 - Nivel de depuración activado
+2025-08-01 02:46:15 - INFO     - danil-ai:16 - 🔍 Loading .env from: /app/backend/.env
+2025-08-01 02:46:15 - INFO     - danil-ai:23 - ✅ Environment variables loaded successfully
+2025-08-01 02:46:15 - INFO     - danil-ai:86 - Logger configurado correctamente
+2025-08-01 02:46:15 - DEBUG    - danil-ai:87 - Nivel de depuración activado
+2025-08-01 02:46:15 - INFO     - danil-ai:16 - 🔍 Loading .env from: /app/backend/.env
+2025-08-01 02:46:15 - INFO     - danil-ai:23 - ✅ Environment variables loaded successfully
+2025-08-01 02:46:16 - INFO     - danil-ai:34 - ✅ Cliente de Twilio inicializado correctamente
+2025-08-01 02:46:16 - INFO     - danil-ai:34 - ✅ Cliente de Twilio inicializado correctamente
+2025-08-01 02:46:16 - INFO     - danil-ai:34 - ✅ Cliente de Twilio inicializado correctamente
+2025-08-01 02:46:16 - INFO     - danil-ai:34 - ✅ Cliente de Twilio inicializado correctamente

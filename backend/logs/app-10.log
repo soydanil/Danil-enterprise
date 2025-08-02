@@ -1,0 +1,48 @@
+2025-08-01 02:48:04 - INFO     - worker-10 - danil-ai:137 - Logger configurado correctamente
+2025-08-01 02:48:04 - DEBUG    - worker-10 - danil-ai:138 - Nivel de depuración activado
+2025-08-01 02:48:04 - INFO     - worker-10 - danil-ai:18 - ✅ Environment variables loaded from /app/backend/.env
+2025-08-01 02:48:05 - INFO     - worker-10 - danil-ai:34 - ✅ Cliente de Twilio inicializado correctamente
+2025-08-01 02:49:54 - INFO     - worker-10 - danil-ai:137 - Logger configurado correctamente
+2025-08-01 02:49:54 - DEBUG    - worker-10 - danil-ai:138 - Nivel de depuración activado
+2025-08-01 02:49:54 - INFO     - worker-10 - danil-ai:18 - ✅ Environment variables loaded from /app/backend/.env
+2025-08-01 02:49:54 - INFO     - worker-10 - danil-ai:42 - 🔍 Inicializando conexión a la base de datos...
+2025-08-01 02:49:54 - INFO     - worker-10 - danil-ai.db:31 - 🔌 Inicializando cliente de Supabase...
+2025-08-01 02:49:54 - DEBUG    - worker-10 - danil-ai.db:32 - Conectando a: https://wxkdmpskjaeetqmcfmik.supabase.co
+2025-08-01 02:49:54 - DEBUG    - worker-10 - danil-ai.db:38 - Probando conexión a la base de datos...
+2025-08-01 02:49:54 - INFO     - worker-10 - danil-ai.db:48 - ✅ Conexión a Supabase establecida correctamente (240.11ms)
+2025-08-01 02:49:54 - DEBUG    - worker-10 - danil-ai.db:49 - Tabla 'conversations_twilio' accesible
+2025-08-01 02:49:54 - INFO     - worker-10 - danil-ai:46 - ✅ Conexión a la base de datos inicializada correctamente
+2025-08-01 02:49:54 - INFO     - worker-10 - danil-ai:34 - ✅ Cliente de Twilio inicializado correctamente
+2025-08-01 02:53:34 - INFO     - worker-10 - danil-ai:137 - Logger configurado correctamente
+2025-08-01 02:53:34 - DEBUG    - worker-10 - danil-ai:138 - Nivel de depuración activado
+2025-08-01 02:53:34 - INFO     - worker-10 - danil-ai:18 - ✅ Environment variables loaded from /app/backend/.env
+2025-08-01 02:53:34 - INFO     - worker-10 - danil-ai:42 - 🔍 Inicializando conexión a la base de datos...
+2025-08-01 02:53:34 - INFO     - worker-10 - danil-ai.db:31 - 🔌 Inicializando cliente de Supabase...
+2025-08-01 02:53:34 - DEBUG    - worker-10 - danil-ai.db:32 - Conectando a: https://wxkdmpskjaeetqmcfmik.supabase.co
+2025-08-01 02:53:34 - DEBUG    - worker-10 - danil-ai.db:38 - Probando conexión a la base de datos...
+2025-08-01 02:53:35 - INFO     - worker-10 - danil-ai.db:48 - ✅ Conexión a Supabase establecida correctamente (239.88ms)
+2025-08-01 02:53:35 - DEBUG    - worker-10 - danil-ai.db:49 - Tabla 'conversations_twilio' accesible
+2025-08-01 02:53:35 - INFO     - worker-10 - danil-ai:46 - ✅ Conexión a la base de datos inicializada correctamente
+2025-08-01 02:53:35 - INFO     - worker-10 - danil-ai:34 - ✅ Cliente de Twilio inicializado correctamente
+2025-08-01 02:56:52 - INFO     - worker-10 - danil-ai:137 - Logger configurado correctamente
+2025-08-01 02:56:52 - DEBUG    - worker-10 - danil-ai:138 - Nivel de depuración activado
+2025-08-01 02:56:52 - INFO     - worker-10 - danil-ai:18 - ✅ Environment variables loaded from /app/backend/.env
+2025-08-01 02:56:52 - INFO     - worker-10 - danil-ai:42 - 🔍 Inicializando conexión a la base de datos...
+2025-08-01 02:56:52 - INFO     - worker-10 - danil-ai.db:31 - 🔌 Inicializando cliente de Supabase...
+2025-08-01 02:56:52 - DEBUG    - worker-10 - danil-ai.db:32 - Conectando a: https://wxkdmpskjaeetqmcfmik.supabase.co
+2025-08-01 02:56:52 - DEBUG    - worker-10 - danil-ai.db:38 - Probando conexión a la base de datos...
+2025-08-01 02:56:52 - INFO     - worker-10 - danil-ai.db:48 - ✅ Conexión a Supabase establecida correctamente (215.52ms)
+2025-08-01 02:56:52 - DEBUG    - worker-10 - danil-ai.db:49 - Tabla 'conversations_twilio' accesible
+2025-08-01 02:56:52 - INFO     - worker-10 - danil-ai:46 - ✅ Conexión a la base de datos inicializada correctamente
+2025-08-01 02:56:52 - INFO     - worker-10 - danil-ai:34 - ✅ Cliente de Twilio inicializado correctamente
+2025-08-01 02:59:30 - INFO     - worker-10 - danil-ai:137 - Logger configurado correctamente
+2025-08-01 02:59:30 - DEBUG    - worker-10 - danil-ai:138 - Nivel de depuración activado
+2025-08-01 02:59:30 - INFO     - worker-10 - danil-ai:18 - ✅ Environment variables loaded from /app/backend/.env
+2025-08-01 02:59:30 - INFO     - worker-10 - danil-ai:42 - 🔍 Inicializando conexión a la base de datos...
+2025-08-01 02:59:30 - INFO     - worker-10 - danil-ai.db:31 - 🔌 Inicializando cliente de Supabase...
+2025-08-01 02:59:30 - DEBUG    - worker-10 - danil-ai.db:32 - Conectando a: https://wxkdmpskjaeetqmcfmik.supabase.co
+2025-08-01 02:59:30 - DEBUG    - worker-10 - danil-ai.db:38 - Probando conexión a la base de datos...
+2025-08-01 02:59:30 - INFO     - worker-10 - danil-ai.db:48 - ✅ Conexión a Supabase establecida correctamente (247.44ms)
+2025-08-01 02:59:30 - DEBUG    - worker-10 - danil-ai.db:49 - Tabla 'conversations_twilio' accesible
+2025-08-01 02:59:30 - INFO     - worker-10 - danil-ai:46 - ✅ Conexión a la base de datos inicializada correctamente
+2025-08-01 02:59:30 - INFO     - worker-10 - danil-ai:34 - ✅ Cliente de Twilio inicializado correctamente
